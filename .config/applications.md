@@ -33,6 +33,7 @@ Virtual Machine Manager => Virtual Machine to run other OS
 Gimp => Open Source Adobe Photoshop replacement
 VLC => Video Player
 Neovim => CLI based text editor
+Neofetch => CLI based system information displayer
 Qbittorrent => Movie, Music and other application downloader
 Spicetify => Theme Changer for spotify
 Better_Discord => Theme Changer for Discord

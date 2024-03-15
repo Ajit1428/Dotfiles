@@ -1,0 +1,175 @@
+/*
+#     ▄████████     ███    
+#    ███    ███ ▀█████████▄
+#    ███    ███    ▀███▀▀██
+#    ███    ███     ███   ▀
+#  ▀███████████     ███    
+#    ███    ███     ███    
+#    ███    ███     ███    
+#    ███    █▀     ▄████▀  
+# 
+#   Waybar style 2024 */
+
+@import "./theme/catppuccin-mocha.css";
+
+/*────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+** General **
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────*/
+
+* {
+  font-family: JetBrainsMono Nerd Font;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+window#waybar {
+  background-color: transparent;
+  transition-duration: 0.5s;
+  margin: 0px 0px;
+}
+
+/*────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+** Workspaces **
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────*/
+
+#workspaces {
+  background: @overlay0;
+  margin: 5px 2px 5px 8px;
+  padding: 2px 10px;
+  border: 0px;
+  border-radius: 20px;
+  font-style: normal;
+  color: @base;
+}
+
+#workspaces button {
+  padding: 0px 10px;
+  margin: 4px 3px;
+  border-radius: 15px;
+  min-width: 10px;
+  border: 0px;
+  color: @base;
+  background: @base;
+  transition: all 0.3s ease-in-out;
+  opacity: 0.4;
+}
+
+#workspaces button.active {
+  background: linear-gradient(60deg, @green, @sky);
+  color: @green;
+  border-radius: 15px;
+  min-width: 10px;
+  transition: all 0.3s ease-in-out;
+  opacity: 1;
+}
+
+/*────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+** Tooltips **
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────*/
+
+tooltip {
+  background: @base;
+  border: 1px solid @teal;
+  border-radius: 10px;
+}
+
+/*────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+** Window **
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────*/
+
+#window {
+  color: @base;
+  background: @green;
+  min-width: 20px;
+  border-radius: 50px 15px 50px 15px;
+  margin: 4px;
+  padding: 2px 20px;
+}
+
+#custom-updater {
+  color: @base;
+  background: @rosewater;
+  border-radius: 50px 15px 50px 15px;
+  margin: 5px;
+  padding: 2px 20px;
+}
+
+#battery {
+  color: @base;
+  background: @sapphire;
+  border-radius: 50px 15px 50px 15px;
+  margin: 5px;
+  padding: 2px 20px;
+}
+
+#clock {
+  color: @base;
+  background: @maroon;
+  border-radius: 50px 15px 50px 15px;
+  margin: 5px;
+  padding: 2px 20px;
+}
+
+#network {
+  color: @base;
+  background: @yellow;
+  border-radius: 50px 15px 50px 15px;
+  margin: 5px;
+  padding: 2px 20px;
+}
+
+#bluetooth {
+  color: @base;
+  background: @red;
+  border-radius: 15px;
+  margin: 5px;
+  padding: 2px 20px;
+}
+
+#cpu {
+  color: @base;
+  background: @sky;
+  border-radius: 15px 50px 15px 50px;
+  margin: 5px;
+  padding: 2px 20px;
+}
+
+#temperature {
+  color: @base;
+  background: @peach;
+  border-radius: 15px 50px 15px 50px;
+  margin: 5px;
+  padding: 2px 20px;
+}
+
+#memory {
+  color: @base;
+  background: @pink;
+  border-radius: 15px 50px 15px 50px;
+  margin: 5px;
+  padding: 2px 20px;
+}
+
+#backlight {
+  color: @base;
+  background: @mauve;
+  border-radius: 15px 50px 15px 50px;
+  margin: 5px;
+  padding: 2px 20px;
+}
+
+#pulseaudio {
+  color: @base;
+  background: @lavender;
+  border-radius: 15px 50px 15px 50px;
+  margin: 5px;
+  padding: 2px 20px;
+}
+
+#tray {
+  color: @base;
+  background: @surface2;
+  border-radius: 15px 50px 15px 50px;
+  margin: 5px;
+  padding: 2px 20px;
+}

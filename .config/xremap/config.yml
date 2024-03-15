@@ -1,0 +1,8 @@
+modmap:
+  - name: Escape Remapped for vim
+    remap:
+      CapsLock: esc
+
+  - name: CTRL and ALT replacement
+    remap:
+      LEFTALT: LEFTCTRL

@@ -17,7 +17,7 @@ Viber => Communication
 Whatsapp => Communication
 Xremap-hypr-bin => Default keyboard remapper
 
-## Pacman
+## Package Manager Utility
 
 Discord => Communication
 Btop => Terminal Monitoring

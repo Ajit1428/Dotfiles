@@ -22,46 +22,46 @@ Hello i'm Ajit Thapa, i have been using Arch linux for more than 2+ years. I had
 
 # 🔱Applications
 
-- 🔱Aur Packages
+🔱Aur Packages
 
-* Amberol => Music Player
-* Bluetooth-git => Bluetooth GUI
-* Catppuccin-cursor-mocha => Cursor Theme
-* Catpuccinn-gtk=theme-mocha => GTK Theme
-* Cava => Termianl Beat Visualizer
-* Google-Chrome => Browser
-* MongoDb-Compass => Mongo Database GUI
-* Netflix => Movie and Chill
-* NVM => Node version switcher
-* NWG-Look => System GUI themes changer
-* Papirus-folder-catppuccin-git => Folder Theme (Catppuccin)
-* Postman-bin => API Testing
-* Spotify => Music and Chill
-* Viber => Communication
-* Whatsapp => Communication
-* Xremap-hypr-bin => Default keyboard remapper
+- Amberol -> Music Player
+- Bluetooth-gi- -> Bluetooth GUI
+- Catppuccin-cursor-mocha -> Cursor Theme
+- Catpuccinn-gtk=theme-m-cha -> GTK Theme
+- Cava -> Termianl Beat Visualizer
+- Google-Chrome -> Browser
+- MongoDb-Compass -> Mongo Database GUI
+- Netflix -> Movie and Chill
+- NVM -> Node version switcher
+- NWG-Look -> System GUI themes changer
+- Papirus-folder-catppuccin-git -> Folder Theme (Catppuccin)
+- Postman-bin -> API Testing
+- Spotify -> Music and Chill
+- Viber -> Communication
+- Whatsapp -> Communication
+- Xremap-hypr-bin -> Default keyboard remapper
 
-- 🔱Pacman (Package Manager Utility)
+🔱Pacman (Package Manager Utility)
 
-* Discord => Communication
-* Btop => Terminal Monitoring
-* Steam => Games
-* Picard => Music Renamer associated with amberol
-* Pulseaudo => Audio Controller
-* Fish => Shell
-* Kitty => Terminal
-* Pcmanfm => File Manager
-* Gparted => Disk Manager
-* Document Viewer => Abode Alike
-* Virtual Machine Manager => Virtual Machine to run other OS
-* Gimp => Open Source Adobe Photoshop replacement
-* VLC => Video Player
-* Neovim => CLI based text editor
-* TMUX => For Better workflow
-* Neofetch => CLI based system information displayer
-* Qbittorrent => Movie, Music and other application downloader
-* Spicetify => Theme Changer for spotify
-* Better_Discord => Theme Changer for Discord
+- Discord -> Communication
+- Btop -> Terminal Monitoring
+- Steam -> Games
+- Picard -> Music Renamer associated with amberol
+- Pulseaudio -> Audio Controller
+- Fish -> Shell
+- Kitty -> Terminal
+- Pcmanfm -> File Manager
+- Gparted -> Disk Manager
+- Document Viewer -> Abode Alike
+- Virtual Machine Manager -> Virtual Machine to run other OS
+- Gimp -> Open Source Adobe Photoshop replacement
+- VLC -> Video Player
+- Neovim -> CLI based text editor
+- TMUX -> For Better workflow
+- Neofetch -> CLI based system information displayer
+- Qbittorrent -> Movie, Music and other application downloader
+- Spicetify -> Theme Changer for spotify
+- Better_Discord -> Theme Changer for Discord
 
 # 🔱Screenshots
 

@@ -1,7 +1,8 @@
 return {
   "catppuccin/nvim",
-  priority = 1400,
-  lazy = true,
+  name = "catppuccin",
+  priority = 1000,
+  lazy = false,
   config = function()
     require("catppuccin").setup({
       highlight_overrides = {

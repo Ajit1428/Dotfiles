@@ -58,6 +58,17 @@ return {
   },
   {
     "neo-tree.nvim",
+    config = function()
+      require("neo-tree").setup({
+        window = {
+          position = "float",
+          popup = {
+            size = { height = "35", width = "80" },
+            position = "50%",
+          },
+        },
+      })
+    end,
     opts = {
       filesystem = {
         filtered_items = {

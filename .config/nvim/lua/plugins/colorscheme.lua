@@ -5,6 +5,8 @@ return {
   lazy = false,
   config = function()
     require("catppuccin").setup({
+      flavour = "mocha",
+      term_colors = true,
       highlight_overrides = {
         mocha = function()
           return {

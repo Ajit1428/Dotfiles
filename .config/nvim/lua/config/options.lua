@@ -23,7 +23,10 @@ vim.opt.smarttab = true
 vim.opt.breakindent = true
 vim.opt.shiftwidth = 2
 vim.opt.tabstop = 2
-vim.opt.wrap = false --No Wrap Lines
+vim.opt.completeopt = { "menu", "menuone", "noselect" }
+vim.opt.termguicolors = true
+vim.opt.cursorline = true
+vim.opt.wrap = true --No Wrap Lines
 vim.opt.backspace = { "start", "eol", "indent" }
 vim.opt.path:append({ "**" }) --Finding Files - Search down into subfolders
 vim.opt.wildignore:append({ "*/node_modules/*" })

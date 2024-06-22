@@ -13,6 +13,9 @@ return {
             Comment = {
               fg = "#00ff7f",
             },
+            CursorLine = {
+              bg = "#45475a",
+            },
           }
         end,
       },

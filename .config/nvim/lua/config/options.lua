@@ -24,6 +24,7 @@ vim.opt.breakindent = true
 vim.opt.shiftwidth = 2
 vim.opt.tabstop = 2
 vim.opt.completeopt = { "menu", "menuone", "noselect" }
+vim.opt.signcolumn = "yes"
 vim.opt.termguicolors = true
 vim.opt.cursorline = true
 vim.opt.wrap = true --No Wrap Lines

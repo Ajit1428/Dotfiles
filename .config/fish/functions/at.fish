@@ -1,4 +1,4 @@
-function at --wraps='cd ~/Projects/kbl-securities-kumari-bank' --description 'alias at=cd ~/Projects/kbl-securities-kumari-bank'
-  cd ~/Projects/kbl-securities-kumari-bank $argv
-        
+function at --wraps='cd ~/Projects/Personal' --description 'alias at=cd ~/Projects/Personal'
+    cd ~/Projects/Personal $argv
+
 end

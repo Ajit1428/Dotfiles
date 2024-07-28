@@ -27,7 +27,7 @@ Hello i'm Ajit Thapa, i have been using Arch linux for more than 2+ years. I had
 - Amberol -> Music Player
 - Bluetooth-gi- -> Bluetooth GUI
 - Catppuccin-cursor-mocha -> Cursor Theme
-- Catpuccinn-gtk=theme-m-cha -> GTK Theme
+- Catpuccinn-gtk-theme-m0cha -> GTK Theme
 - Cava -> Termianl Beat Visualizer
 - Google-Chrome -> Browser
 - MongoDb-Compass -> Mongo Database GUI
@@ -62,6 +62,13 @@ Hello i'm Ajit Thapa, i have been using Arch linux for more than 2+ years. I had
 - Qbittorrent -> Movie, Music and other application downloader
 - Spicetify -> Theme Changer for spotify
 - Better_Discord -> Theme Changer for Discord
+- dunst -> Notification
+- hyprpaper -> Wallpaper
+- slurp -> Screenshot tool
+- wl-clipboard -> Clipboard
+- waybar -> For the navbar
+- swaylock -> For lock screen
+- starship -> Shell customization
 
 # 🔱Screenshots
 

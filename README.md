@@ -40,6 +40,7 @@ Hello i'm Ajit Thapa, i have been using Arch linux for more than 2+ years. I had
 - Viber -> Communication
 - Whatsapp -> Communication
 - Xremap-hypr-bin -> Default keyboard remapper
+- Swaylock-effects-git -> For lock screen (Fork of swaylock)
 
 🔱Pacman (Package Manager Utility)
 
@@ -62,13 +63,12 @@ Hello i'm Ajit Thapa, i have been using Arch linux for more than 2+ years. I had
 - Qbittorrent -> Movie, Music and other application downloader
 - Spicetify -> Theme Changer for spotify
 - Better_Discord -> Theme Changer for Discord
-- dunst -> Notification
-- hyprpaper -> Wallpaper
-- slurp -> Screenshot tool
-- wl-clipboard -> Clipboard
-- waybar -> For the navbar
-- swaylock -> For lock screen
-- starship -> Shell customization
+- Dunst -> Notification
+- Hyprpaper -> Wallpaper
+- Slurp -> Screenshot tool
+- Wl-clipboard -> Clipboard
+- Waybar -> For the navbar
+- Starship -> Shell customization
 
 # 🔱Screenshots
 

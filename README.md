@@ -24,8 +24,7 @@ Hello i'm Ajit Thapa, i have been using Arch linux for more than 2+ years. I had
 
 🔱Aur Packages
 
-- Amberol -> Music Player
-- Bluetooth-gi- -> Bluetooth GUI
+- Blueman- -> Bluetooth GUI
 - Catppuccin-cursor-mocha -> Cursor Theme
 - Catpuccinn-gtk-theme-m0cha -> GTK Theme
 - Cava -> Termianl Beat Visualizer
@@ -40,20 +39,16 @@ Hello i'm Ajit Thapa, i have been using Arch linux for more than 2+ years. I had
 - Viber -> Communication
 - Whatsapp -> Communication
 - Xremap-hypr-bin -> Default keyboard remapper
-- Swaylock-effects-git -> For lock screen (Fork of swaylock)
 
 🔱Pacman (Package Manager Utility)
 
 - Discord -> Communication
 - Btop -> Terminal Monitoring
-- Steam -> Games
-- Picard -> Music Renamer associated with amberol
-- Pulseaudio -> Audio Controller
 - Fish -> Shell
 - Kitty -> Terminal
 - Pcmanfm -> File Manager
 - Gparted -> Disk Manager
-- Document Viewer -> Abode Alike
+- Deepin Reader -> Abode Alike
 - Virtual Machine Manager -> Virtual Machine to run other OS
 - Gimp -> Open Source Adobe Photoshop replacement
 - VLC -> Video Player
@@ -65,8 +60,9 @@ Hello i'm Ajit Thapa, i have been using Arch linux for more than 2+ years. I had
 - Better_Discord -> Theme Changer for Discord
 - Dunst -> Notification
 - Hyprpaper -> Wallpaper
+- Hyprlock -> Screenlock
 - Slurp -> Screenshot tool
-- Wl-clipboard -> Clipboard
+- Wl-clipboard && Wl-cliphist -> Clipboard
 - Waybar -> For the navbar
 - Starship -> Shell customization
 - Pavucontrol -> GUI to control sound

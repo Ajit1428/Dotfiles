@@ -1,0 +1,97 @@
+/*
+#     ▄████████     ███    
+#    ███    ███ ▀█████████▄
+#    ███    ███    ▀███▀▀██
+#    ███    ███     ███   ▀
+#  ▀███████████     ███    
+#    ███    ███     ███    
+#    ███    ███     ███    
+#    ███    █▀     ▄████▀  
+# 
+#   Hyprland config 2024
+*/
+
+* {
+  font-family: "JetBrainsMono Nerd Font";
+  background-image: none;
+  transition: 20ms;
+  box-shadow: none;
+}
+
+window {
+  background: url("../../Pictures/Wallpapers/LordShiva_blurred.png");
+  background-size: cover;
+}
+
+button {
+  font-size: 20px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 25%;
+  border-style: solid;
+  background-color: #1e1e2e;
+
+  box-shadow:
+    0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+button:hover {
+  color: #a6e3a1;
+  background-color: rgba(12, 12, 12, 0.5);
+  border: 3px solid #a6e3a1;
+}
+
+/* 
+----------------------------------------------------- 
+Buttons
+----------------------------------------------------- 
+*/
+
+#lock {
+  margin: 10px;
+  border-radius: 20px;
+  background-image: image(url("icons/lock.png"));
+  border: 3px solid #fab387;
+  color: #fab387;
+}
+
+#logout {
+  margin: 10px;
+  border-radius: 20px;
+  background-image: image(url("icons/logout.png"));
+  border: 3px solid #f9e2af;
+  color: #f9e2af;
+}
+
+#suspend {
+  margin: 10px;
+  border-radius: 20px;
+  background-image: image(url("icons/suspend.png"));
+  border: 3px solid #f5e0dc;
+  color: #f5e0dc;
+}
+
+#hibernate {
+  margin: 10px;
+  border-radius: 20px;
+  background-image: image(url("icons/hibernate.png"));
+  border: 3px solid #74c7ec;
+  color: #74c7ec;
+}
+
+#shutdown {
+  margin: 10px;
+  border-radius: 20px;
+  background-image: image(url("icons/shutdown.png"));
+  border: 3px solid #f38ba8;
+  color: #f38ba8;
+}
+
+#reboot {
+  margin: 10px;
+  border-radius: 20px;
+  background-image: image(url("icons/reboot.png"));
+  border: 3px solid #94e2d5;
+  color: #94e2d5;
+}

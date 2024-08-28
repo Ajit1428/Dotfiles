@@ -14,9 +14,9 @@
 "margin-top": 6,
 
 "modules-left": [
-  "custom/updater", 
-  "battery",  
   "clock",
+  "battery",  
+	"memory", 
   "network",    
   "hyprland/window"
   ],
@@ -29,10 +29,10 @@
 	"bluetooth",
 	"cpu",
 	"temperature", 
-	"memory", 
 	"backlight",
 	"pulseaudio",
 	"pulseaudio#microphone",
+  "custom/logout-menu",
   "tray",
 	],
 }

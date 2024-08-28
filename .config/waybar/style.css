@@ -19,7 +19,7 @@
 * {
   font-family: JetBrainsMono Nerd Font;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 window#waybar {
@@ -86,10 +86,10 @@ tooltip {
   padding: 2px 20px;
 }
 
-#custom-updater {
+#custom-logout-menu {
   color: @base;
-  background: @rosewater;
-  border-radius: 50px 15px 50px 15px;
+  background: @maroon;
+  border-radius: 15px 50px 15px 50px;
   margin: 5px;
   padding: 2px 20px;
 }
@@ -104,7 +104,7 @@ tooltip {
 
 #clock {
   color: @base;
-  background: @maroon;
+  background: @rosewater;
   border-radius: 50px 15px 50px 15px;
   margin: 5px;
   padding: 2px 20px;
@@ -145,7 +145,7 @@ tooltip {
 #memory {
   color: @base;
   background: @pink;
-  border-radius: 15px 50px 15px 50px;
+  border-radius: 50px 15px 50px 15px;
   margin: 5px;
   padding: 2px 20px;
 }

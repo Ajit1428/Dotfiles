@@ -6,13 +6,13 @@
 }
 {
     "label" : "reboot",
-    "action" : "systemctl reboot",
+    "action" : "kitty reboot",
     "text" : "Reboot",
     "keybind" : "r"
 }
 {
     "label" : "shutdown",
-    "action" : "systemctl poweroff",
+    "action" : "kitty poweroff",
     "text" : "Shutdown",
     "keybind" : "s"
 }
@@ -24,13 +24,13 @@
 }
 {
     "label" : "hibernate",
-    "action" : "systemctl hibernate",
+    "action" : "kitty hibernate",
     "text" : "Hibernate",
     "keybind" : "h"
 }
 {
     "label" : "suspend",
-    "action" : "systemctl suspend",
+    "action" : "kitty suspend",
     "text" : "Suspend",
     "keybind" : "u"
 }

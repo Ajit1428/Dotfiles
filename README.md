@@ -28,7 +28,8 @@ Hello i'm Ajit Thapa, i have been using Arch linux for more than 2+ years. I had
 - Catppuccin-cursor-mocha -> Cursor Theme
 - Catpuccinn-gtk-theme-m0cha -> GTK Theme
 - Cava -> Termianl Beat Visualizer
-- Google-Chrome -> Browser
+- Firefox -> Primary Browser
+- Google-Chrome -> Work Browser
 - MongoDb-Compass -> Mongo Database GUI
 - Netflix -> Movie and Chill
 - NVM -> Node version switcher

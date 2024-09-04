@@ -224,6 +224,14 @@
   },
   {
     "key": "ctrl-a",
-    "command": "editor.action.selectAll"
+    "command": "editor.action.selectAll",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl-c",
+    "command": "vim.remap",
+    "args": {
+      "after": ["g", "g", "v", "G", "y"]
+    }
   }
 ]

@@ -102,5 +102,8 @@
   },
   "reactSnippets.settings.prettierEnabled": true,
   "editor.formatOnSave": true,
-  "vim.useSystemClipboard": true
+  "vim.useSystemClipboard": true,
+  "vim.foldfix": true,
+  "svelte.enable-ts-plugin": true,
+  "explorer.compactFolders": false
 }

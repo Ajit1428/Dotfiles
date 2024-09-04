@@ -26,6 +26,13 @@ vim.opt.smarttab = true --Tab
 vim.opt.tabstop = 2 --Tab
 vim.opt.completeopt = { "menu", "menuone", "noselect" } --Completion
 vim.opt.signcolumn = "yes" --Space present in the left side of relative line numbers
+
+--Fold (UFO)
+vim.opt.foldcolumn = "0"
+vim.opt.foldlevel = 99
+vim.opt.foldlevelstart = 99
+vim.opt.foldenable = true
+
 vim.opt.termguicolors = true --Terminal GUI colors
 vim.opt.cursorline = true --displayes a vertical line when you are in current line
 vim.opt.wrap = true --No Wrap Lines

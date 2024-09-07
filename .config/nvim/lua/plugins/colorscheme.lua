@@ -20,8 +20,7 @@ return {
               bg = colors.overlay0,
             },
             Visual = {
-              bg = colors.green,
-              fg = colors.base,
+              bg = "#00A513",
             },
           }
         end,

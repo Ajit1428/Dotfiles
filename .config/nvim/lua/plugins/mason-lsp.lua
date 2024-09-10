@@ -2,20 +2,10 @@ return {
   "williamboman/mason.nvim",
   opts = function(_, opts)
     vim.list_extend(opts.ensure_installed, {
-      "ast-grep",
-      "astro-language-server",
-      "css-lsp",
-      "css-variables-language-server",
       "eslint-lsp",
       "eslint_d",
-      "html-lsp",
-      "htmlhint",
       "js-debug-adapter",
-      "json-lsp",
       "lua-language-server",
-      "markdown-toc",
-      "markdownlint-cli2",
-      "marksman",
       "prettier",
       "prettierd",
       "stylua",
@@ -25,7 +15,6 @@ return {
       "shfmt",
       "svelte-language-server",
       "tailwindcss-language-server",
-      "typescript-language-server",
       "vtsls",
     })
   end,

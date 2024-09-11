@@ -3,19 +3,14 @@ return {
   opts = function(_, opts)
     vim.list_extend(opts.ensure_installed, {
       "eslint-lsp",
-      "eslint_d",
-      "js-debug-adapter",
-      "lua-language-server",
-      "prettier",
+      "hadolint",
       "prettierd",
+      "shfmt",
       "stylua",
       "selene",
-      "luacheck",
       "shellcheck",
-      "shfmt",
-      "svelte-language-server",
-      "tailwindcss-language-server",
-      "vtsls",
+      "delve",
+      "sql-formatter",
     })
   end,
 }

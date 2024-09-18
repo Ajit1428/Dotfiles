@@ -65,6 +65,9 @@
   "window.zoomLevel": 1,
   "workbench.editor.labelFormat": "medium",
   "workbench.sideBar.location": "right",
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#00A513"
+  },
   "workbench.startupEditor": "newUntitledFile",
   "workbench.statusBar.visible": false,
   "[css]": {

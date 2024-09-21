@@ -6,19 +6,19 @@ Hello i'm Ajit Thapa, i have been using Arch linux for more than 2+ years. I had
 
 - To install arch linux follow this link:
 
-  https://archlinux.org/
+  <https://archlinux.org/>
 
 # 🔱Hyprland
 
 - To install hyprland follow this link:
 
-  https://wiki.hyprland.org/
+  <https://wiki.hyprland.org/>
 
 # 🔱Catppuccin Theme
 
 - I use catppuccin themes in all of my applications and if you do consider to give it a try follow this link:
 
-  https://github.com/catppuccin
+  <https://github.com/catppuccin>
 
 # 🔱Applications
 
@@ -28,8 +28,7 @@ Hello i'm Ajit Thapa, i have been using Arch linux for more than 2+ years. I had
 - Catppuccin-cursor-mocha -> Cursor Theme
 - Catpuccinn-gtk-theme-m0cha -> GTK Theme
 - Cava -> Termianl Beat Visualizer
-- Firefox -> Primary Browser
-- Google-Chrome -> Work Browser
+- Google Chrome -> Primary Browser
 - MongoDb-Compass -> Mongo Database GUI
 - Netflix -> Movie and Chill
 - NVM -> Node version switcher

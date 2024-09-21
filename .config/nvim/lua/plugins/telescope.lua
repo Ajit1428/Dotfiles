@@ -12,7 +12,7 @@ return {
   },
   keys = {
     {
-      "<leader>fp",
+      ";f",
       function()
         require("telescope.builtin").find_files({
           cwd = require("lazy.core.config").options.root,
@@ -21,18 +21,7 @@ return {
       desc = "Find plugin file",
     },
     {
-      ";f",
-      function()
-        local builtin = require("telescope.builtin")
-        builtin.find_files({
-          no_ignore = false,
-          hidden = true,
-        })
-      end,
-      desc = "Lists files in your current working directoru, respects .gitignore",
-    },
-    {
-      ";r",
+      ";l",
       function()
         local builtin = require("telescope.builtin")
         builtin.live_grep({
@@ -42,15 +31,7 @@ return {
       desc = "Search for a string in your current working directory and get results live as you type, respects .gitignore",
     },
     {
-      ";e",
-      function()
-        local builtin = require("telescope.builtin")
-        builtin.diagnostics()
-      end,
-      desc = "Lists Diagnostics for all open buffers or a specific buffer",
-    },
-    {
-      ";s",
+      ";t",
       function()
         local builtin = require("telescope.builtin")
         builtin.treesitter()
@@ -58,7 +39,7 @@ return {
       desc = "Lists functions names, variables, from Treesitter",
     },
     {
-      "sf",
+      ";e",
       function()
         local telescope = require("telescope")
 

@@ -28,7 +28,7 @@ return {
       integrations = {
         indent_blankline = {
           enabled = true,
-          scope_color = "green",
+          scope_color = "peach",
         },
       },
     })

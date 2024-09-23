@@ -25,6 +25,12 @@ return {
           }
         end,
       },
+      integrations = {
+        indent_blankline = {
+          enabled = true,
+          scope_color = "green",
+        },
+      },
     })
   end,
 }

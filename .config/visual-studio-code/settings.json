@@ -66,7 +66,9 @@
   "workbench.editor.labelFormat": "medium",
   "workbench.sideBar.location": "right",
   "workbench.colorCustomizations": {
-    "editor.selectionBackground": "#00A513"
+    "editorCursor.foreground": "#a6e3a1",
+    "editor.selectionBackground": "#00A513",
+    "editorIndentGuide.activeBackground1": "#fab387"
   },
   "workbench.startupEditor": "newUntitledFile",
   "workbench.statusBar.visible": false,

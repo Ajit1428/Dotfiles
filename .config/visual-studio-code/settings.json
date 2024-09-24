@@ -68,7 +68,8 @@
   "workbench.colorCustomizations": {
     "editorCursor.foreground": "#a6e3a1",
     "editor.selectionBackground": "#00A513",
-    "editorIndentGuide.activeBackground1": "#fab387"
+    "editorIndentGuide.activeBackground1": "#fab387",
+    "editor.lineHighlightBackground": "#585b70"
   },
   "workbench.startupEditor": "newUntitledFile",
   "workbench.statusBar.visible": false,

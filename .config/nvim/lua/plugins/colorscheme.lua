@@ -17,7 +17,7 @@ return {
               fg = "#00ff7f",
             },
             CursorLine = {
-              bg = colors.overlay0,
+              bg = colors.surface2,
             },
             Visual = {
               bg = "#00A513",

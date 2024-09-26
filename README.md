@@ -37,7 +37,7 @@ Hello i'm Ajit Thapa, i have been using Arch linux for more than 2+ years. I had
 - Postman-bin -> API Testing
 - Spotify -> Music and Chill
 - Viber -> Communication
-- Whatsapp -> Communication
+- Zapzap -> Whatsapp alternative
 - Xremap-hypr-bin -> Default keyboard remapper
 - Wlogout -> Logout menu for wayland
 

@@ -49,7 +49,7 @@ Hello i'm Ajit Thapa, i have been using Arch linux for more than 2+ years. I had
 - Kitty -> Terminal
 - Pcmanfm -> File Manager
 - Gparted -> Disk Manager
-- Deepin Reader -> Abode Alike
+- Okular -> PDF Viewer
 - Yazi -> CLI File Manager
 - Feh -> Image Viewer
 - Virtual Machine Manager -> Virtual Machine to run other OS

@@ -12,7 +12,6 @@ require("lazy").setup({
     { "LazyVim/LazyVim", opts = { colorscheme = "catppuccin-mocha" }, import = "lazyvim.plugins" },
     -- import any extras modules here
     { import = "lazyvim.plugins.extras.linting.eslint" },
-    { import = "lazyvim.plugins.extras.editor.telescope" },
     { import = "lazyvim.plugins.extras.formatting.prettier" },
     { import = "lazyvim.plugins.extras.lang.astro" },
     { import = "lazyvim.plugins.extras.lang.docker" },

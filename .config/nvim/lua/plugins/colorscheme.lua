@@ -3,12 +3,9 @@ return {
   name = "catppuccin",
   priority = 1000,
   lazy = false,
-  opts = {
-    transparent_background = true,
-  },
   config = function()
     require("catppuccin").setup({
-      flavour = "mocha",
+      flavour = "latte",
       term_colors = true,
       highlight_overrides = {
         mocha = function(colors)
@@ -26,10 +23,8 @@ return {
         end,
       },
       integrations = {
-        indent_blankline = {
-          enabled = true,
-          scope_color = "peach",
-        },
+        blink_cmp = true,
+        snacks = true,
       },
     })
   end,
